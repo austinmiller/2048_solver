@@ -1,8 +1,11 @@
 2048 Solver
 -----------
 
-original game: http://gabrielecirulli.github.io/2048/
-autosolver: http://austinmiller.us/2048/ (press one of the buttons on lower left)
+ * original game: http://gabrielecirulli.github.io/2048/
+ * autosolver: http://austinmiller.us/2048/ (press one of the buttons on lower left)
+ * normal distribution: http://www.wolframalpha.com/input/?i=average+19900+and+standard+deviation+11258
+
+
 
 The source code for this game is not mine, and was found on this site: 
 http://gabrielecirulli.github.io/2048/
